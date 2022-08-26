@@ -25,6 +25,22 @@
 
 /* FIN BOTONES */ 
 
+/* TITULOS DE SECCIONES */  
+
+.title {
+    text-align: center;
+    font-size: 40px;
+    color: map-get($colors, color-red);
+}
+
+.sub-title{
+    text-align: center;
+    font-size: 25px;
+    padding-bottom: 30px;
+}
+
+/* FIN TITULOS DE SECCIONES */ 
+
 /* NAVBAR */  
 
 .animate__animated.animate__flash {
@@ -42,3 +58,11 @@
 }
 
 /* FIN NAVBAR */
+
+/* TARJETAS */
+
+.card-body{
+    text-align: center;
+}
+
+/* FIN TARJETAS */

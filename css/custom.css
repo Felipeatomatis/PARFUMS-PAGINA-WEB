@@ -10779,6 +10779,20 @@ textarea.form-control-lg {
 }
 
 /* FIN BOTONES */
+/* TITULOS DE SECCIONES */
+.title {
+  text-align: center;
+  font-size: 40px;
+  color: #ff0303;
+}
+
+.sub-title {
+  text-align: center;
+  font-size: 25px;
+  padding-bottom: 30px;
+}
+
+/* FIN TITULOS DE SECCIONES */
 /* NAVBAR */
 .animate__animated.animate__flash {
   --animate-duration: 5s;
@@ -10795,5 +10809,11 @@ textarea.form-control-lg {
 }
 
 /* FIN NAVBAR */
+/* TARJETAS */
+.card-body {
+  text-align: center;
+}
+
+/* FIN TARJETAS */
 
 /*# sourceMappingURL=custom.css.map */
