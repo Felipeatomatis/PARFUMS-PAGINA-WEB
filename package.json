@@ -1,0 +1,23 @@
+{
+  "name": "parfums-pagina-web",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "compile:sass": "sass --watch scss/style.scss css/style.css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Felipeatomatis/PARFUMS-PAGINA-WEB.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Felipeatomatis/PARFUMS-PAGINA-WEB/issues"
+  },
+  "homepage": "https://github.com/Felipeatomatis/PARFUMS-PAGINA-WEB#readme",
+  "dependencies": {
+    "bootstrap": "^5.2.0"
+  }
+}
