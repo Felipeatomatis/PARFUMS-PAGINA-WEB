@@ -26,6 +26,8 @@ $colors:(
 
 $navbar-brand-font-size: 2rem;
 
+$navbar-nav-link-padding-x: 3.3rem;
+
 //Menu hamburguesa
 $navbar-dark-color: #f7f7f7;
 
@@ -41,5 +43,10 @@ $carousel-control-icon-width: 3rem;
 //Indicador
 $carousel-indicator-width: 80px;
 $carousel-indicator-active-bg: #f7f7f7;
-
+$card-border-radius: 1rem;
 //Fin Carrusel
+
+//Inicio Tarjetas de productos
+
+$card-border-color: $primary;
+$card-border-width: 0.15rem;
