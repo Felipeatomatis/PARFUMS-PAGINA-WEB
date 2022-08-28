@@ -66,3 +66,60 @@
 }
 
 /* FIN TARJETAS */
+
+/* FOOTER */
+
+.container {
+    width: auto;
+}
+
+.color-footer {
+    background-color: map-get($colors, color-black);
+    
+}
+
+.footer-content {
+    background-color: map-get($colors, color-black);
+    color: map-get($colors, color-white);
+    text-align: center;
+  }
+
+  .footer__title {
+    font-size: 1.5rem;
+    padding: 2px;
+    text-align: center;
+    color: map-get($colors, color-grey);
+  }
+
+  .redes__icons {
+    text-align: center;
+  }
+
+  .redes__icons a i{
+    margin-left: 1rem;
+  }
+
+  .fa-facebook{
+    font-size: 30px;
+    color: map-get($colors, color-grey);
+    width: 35px;
+    height: 35px;
+    text-align: center;
+    line-height: 35px;
+    bottom: 30px;
+    right: 30px;
+}
+
+.fa-twitter{
+    @extend .fa-facebook;
+}
+
+.fa-whatsapp{
+    @extend .fa-facebook;
+}
+
+.fa-instagram{
+    @extend .fa-facebook;
+}
+
+/* FIN FOOTER */
