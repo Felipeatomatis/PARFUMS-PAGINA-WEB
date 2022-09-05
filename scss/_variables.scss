@@ -6,7 +6,7 @@ $primary: #131826;
 
 //Fin Globals
 
-//Colores
+/* COLORES */ 
 
 $color-black: #131826;
 $color-grey: #757171;
@@ -20,9 +20,9 @@ $colors:(
     "color-red": #ff0303
 );
 
-//Fin Colores
+/* FIN COLORES */ 
 
-//Inicio Navbar
+/* NAVBAR */ 
 
 $navbar-brand-font-size: 2rem;
 
@@ -31,9 +31,9 @@ $navbar-nav-link-padding-x: 3.3rem;
 //Menu hamburguesa
 $navbar-dark-color: #f7f7f7;
 
-//Fin Navbar
+/* FIN NAVBAR */ 
 
-//Carrusel
+/* CARRUSEL */ 
 
 //Botones 
 $carousel-control-color: #f7f7f7;
@@ -44,9 +44,10 @@ $carousel-control-icon-width: 3rem;
 $carousel-indicator-width: 80px;
 $carousel-indicator-active-bg: #f7f7f7;
 $card-border-radius: 1rem;
-//Fin Carrusel
 
-//Inicio Tarjetas de productos
+/* FIN CARRUSELS */ 
+
+/* TARJETAS PRODUCTOS */ 
 
 $card-border-color: $primary;
 $card-border-width: 0.15rem;
