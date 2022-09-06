@@ -7,6 +7,7 @@
 /* CARRUSEL */
 /* FIN CARRUSELS */
 /* TARJETAS PRODUCTOS */
+/* FILTROS DE PRODUCTOS */
 * {
   padding: 0;
   margin: 0;
@@ -3173,8 +3174,8 @@ textarea.form-control-lg {
   --bs-dropdown-padding-y: 0.5rem;
   --bs-dropdown-spacer: 0.125rem;
   --bs-dropdown-font-size: 1rem;
-  --bs-dropdown-color: #212529;
-  --bs-dropdown-bg: #fff;
+  --bs-dropdown-color: #131826;
+  --bs-dropdown-bg: #f7f7f7;
   --bs-dropdown-border-color: var(--bs-border-color-translucent);
   --bs-dropdown-border-radius: 0.375rem;
   --bs-dropdown-border-width: 1px;
@@ -10964,5 +10965,9 @@ textarea.form-control-lg {
 }
 
 /* FIN FORMULARIO DE CONTACTO */
+/* PREGUTNAS FRECUENTES */
+.preguntas {
+  text-align: center;
+}
 
 /*# sourceMappingURL=custom.css.map */
